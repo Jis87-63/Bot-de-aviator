@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "home.py": {
+      "runtime": "python3.9"
+    }
+  },
+  "rewrites": [
+    { "source": "/home.py", "destination": "/home.py" }
+  ]
+}
